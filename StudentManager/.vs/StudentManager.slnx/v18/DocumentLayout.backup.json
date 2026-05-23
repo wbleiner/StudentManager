@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desenvolvedor_IO\\StudentManager\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\models\\student\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\repositories\\studentreposiroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\models\\student\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\models\\student\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160F41F-A491-498C-814D-2DA39C393591}|..\\src\\StudentManagerwWebApp\\StudentManagerwWebApp.csproj|d:\\desenvolvedor_io\\studentmanager\\src\\studentmanagerwwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\IEntity.cs",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Models\\Student\\IEntity.cs",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\IEntity.cs",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Models\\Student\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:17:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentReposiroy.cs",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Repositories\\StudentReposiroy.cs",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Repositories\\StudentReposiroy.cs",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Repositories\\StudentReposiroy.cs",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Repositories\\StudentReposiroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:16:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:13:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Models\\Student\\Enums\\Gender.cs",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\Enums\\Gender.cs",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Models\\Student\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:07:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\StudentModel.cs",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Models\\Student\\StudentModel.cs",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Models\\Student\\StudentModel.cs",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Models\\Student\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:03:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\src\\StudentManagerwWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desenvolvedor_IO\\StudentManager\\src\\StudentManagerwWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\src\\StudentManagerwWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAABSuvQvSbklwAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T17:57:01.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
